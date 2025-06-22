@@ -5,15 +5,6 @@
 
 This app's frontEnd is created using Nextjs .For,backend [admin panel/CMS] i use ReactJs,Nodejs,Expressjs and for database MongoDB.
 
-### CMS/Admin panel
-- [Github](https://github.com/Fatin-Shahriare-Sium/mern-e-commerce)
-- [Website Url](https://github.com/Fatin-Shahriare-Sium/mern-e-commerce)
-
-### FrontEnd 
-
-- [Github](https://github.com/Fatin-Shahriare-Sium/nextjs-e-commerce)
-- [Website Url]( https://nextjs-e-commerce-two.vercel.app/)
-
 ## FrontEnd Technologies
 
 - Nextjs
